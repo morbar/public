@@ -1,4 +1,4 @@
-# public
+# Note to those seeking access to commercial work
 
 My current substantive code is commercial and I unable to make it public.
 
