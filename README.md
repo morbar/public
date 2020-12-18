@@ -1,6 +1,5 @@
 # Note to those seeking access to commercial work
-
-My current substantive code is commercial and I unable to make it public.
+My current substantive code is commercial and I unable to make it public. Howwever:
 
 I attach a screenshot below of a readme.md file from one of my private commercial repositries.
 
