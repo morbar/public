@@ -1,6 +1,6 @@
 # public
 
-@[](images/codebase.png)
+@[](https://images/codebase.png)
 
 
 
