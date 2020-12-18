@@ -1,7 +1,7 @@
 # public
 Note about my commercial code.
 
-My current substantive code is commercial and I unable to make sny of those repositries public.
+My current substantive code is commercial and I unable to make any of those repositries public.
 
 I attach a screenshot below of a readme.md file from one of my private commercial repositries.
 
