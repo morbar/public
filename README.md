@@ -7,7 +7,7 @@ I attach a screenshot below of a readme.md file from one of my private commercia
 
 I am happy to invite interested parties to as collaborators that repositry in order for them to check it out.
 
-![](images/codebase.png)
+![](images/codebase-red.png)
 
 
 
